@@ -1,10 +1,10 @@
 # Check Github user 
-git config user.email
-git config user.name
+- git config user.email
+- git config user.name
 
 # Connect git to github
-git config --global user.email "youremail@gmail.com"
-git config --global user.name "yourusername"
+- git config --global user.email "youremail@gmail.com"
+- git config --global user.name "yourusername"
 
 
 # When Initialize your project
